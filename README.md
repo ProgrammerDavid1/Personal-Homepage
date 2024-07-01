@@ -1,6 +1,6 @@
-# ProgrammerDavid1.github.io
+# Personal Homepage
 
-Hi!! My name is Joon Suk Park, and I am currently a second-year computer engineering student.
+Hi! My name is Joon Suk Park, and I am currently a second-year computer engineering student.
 
 I created my personal homepage, so I hope people who are curious about me will visit this homepage and see more about me.
 
