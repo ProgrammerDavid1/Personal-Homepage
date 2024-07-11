@@ -8,4 +8,11 @@
 
 - Any questions or feedback are welcome at any time!!
 
+
+<img width="1111" alt="홈페이지 첫화면" src= "https://github.com/ProgrammerDavid1/Personal-Homepage/assets/161571242/95ae1af7-8bf1-4ac0-93be-277f6bcc7d6e">
+
+- Please see our KFA big problem.
+
+<img width="1111" alt="홈페이지 첫화면" src= "https://github.com/ProgrammerDavid1/Personal-Homepage/assets/161571242/bf2252a6-f527-4c35-a278-abe3b00f5d49">
+
 https://david-park-personal-website.netlify.app/
